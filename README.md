@@ -5,6 +5,7 @@ This project covers the next topics:
 - Multithreaded programming
 - JSON Objects
 - ListView Adapters
+
 Video of project usage: https://drive.google.com/file/d/1d5eEz20Ht7v6GglQjvqEuLGQ_F509jE8/view?usp=sharing
 
 The application consists of 3 screen views:
